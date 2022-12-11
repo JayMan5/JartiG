@@ -17,3 +17,15 @@
     display: flex;
     gap: 2.6rem;
 }
+
+
+
+
+
+
+
+@media only screen and (maxwidthe:767px){
+    .Texts{
+        background-color: black;
+    }
+} 
